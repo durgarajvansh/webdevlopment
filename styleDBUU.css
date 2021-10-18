@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+}
+
+.logoarea {
+    vertical-align: middle;
+    text-align: center;
+    width: 100%;
+    background-color: hsl(219, 53%, 23%);
+}
+
+section {
+    background-color: white;
+    width: 800px;
+    margin: auto;
+}
+
+.container {
+    padding: 10px;
+}
+
+.DBUUheading {
+    box-sizing: border-box;
+    line-height: 1.2;
+    color: inherit;
+    font-family: 'Poppins-Bold';
+    font-weight: 400;
+    margin: 0;
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 35px;
+    padding: 10px 0 25px;
+    border-bottom: 4px solid #cfcfcf;
+    margin-bottom: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+ul {
+    text-align: left;
+    color: #000;
+    font-family: 'Poppins-Regular';
+    padding: 0;
+    font-size: 15px;
+    width: 800px;
+    box-sizing: border-box;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 0;
+    padding-left: 0px;
+    margin-bottom: 0;
+}
+
+li {
+    color: #000;
+    font-family: 'Poppins-Regular';
+    font-size: 15px;
+    box-sizing: border-box;
+    float: left;
+    width: 100%;
+    margin: 5px 0;
+    position: relative;
+    list-style-type: none;
+    padding-left: 30px;
+}
+
+.DBUUsyllabus {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+    color: #000;
+    font-family: 'Poppins-Regular';
+    box-sizing: border-box;
+    box-shadow: darkcyan;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+}
+
+.logo_and_details_contanear_top_panel {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+    font-family: 'Poppins-Regular';
+    box-sizing: border-box;
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    background-color: hsl(219, 53%, 23%);
+    color: #FFF;
+}
